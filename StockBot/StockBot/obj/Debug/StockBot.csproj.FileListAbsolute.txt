@@ -1,0 +1,39 @@
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Bot Application1.dll.config
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Bot Application1.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Bot Application1.pdb
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Autofac.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Chronic.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Bot.Builder.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Bot.Connector.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Newtonsoft.Json.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Net.Http.Formatting.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Web.Http.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Web.Http.WebHost.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Autofac.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Bot.Builder.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Bot.Connector.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\Newtonsoft.Json.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Net.Http.Formatting.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Web.Http.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\System.Web.Http.WebHost.xml
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\obj\Debug\Bot Application1.dll
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\obj\Debug\Bot Application1.pdb
+C:\Program Files\Code_Learn\bot\StockBot\StockBot\obj\Debug\StockBot.csprojResolveAssemblyReference.cache
